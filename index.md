@@ -46,6 +46,7 @@ layout: default
 	- [16340132-html+js 解决跨域访问带cookie的问题](https://blog.csdn.net/dickdick111/article/details/92788065)
 	- [16340133-前端处理JSON数据](http://leungyukshing.cn/archives/Frontend-JSON.html)
 	- [16340133-axio之PUT预检请求](http://leungyukshing.cn/archives/OPTION-Request.html)
+	- [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
 	- [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
 * [X3 Final Report](X3-final-report)
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
