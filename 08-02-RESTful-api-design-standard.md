@@ -1,19 +1,16 @@
 ## RESTful API 设计规范
 
 REST API 是一系列个体可描述 (individually-addressable) 的资源（API的名词）的模型。
+
 资源可以通过他们的资源名称来提及，并可以通过一个小集合内的方法（即API的动词）来操作。
 
 **建议按照下列步骤来设计面向资源的API**
 
-1.确定API提供的资源类型
-
-2.查明不同资源间的关系
-
-3.根据资源的类型和关系，决定资源名称的规范
-
-4.决定资源的范式 (schema)
-
-5.为资源加上方法的最小集合
+1. 确定API提供的资源类型
+2. 查明不同资源间的关系
+3. 根据资源的类型和关系，决定资源名称的规范
+4. 决定资源的范式 (schema)
+5. 为资源加上方法的最小集合
 
 ### 1. 协议
 
@@ -52,12 +49,6 @@ https://api.example.com/v1/zoos
 https://api.example.com/v1/animals
 
 https://api.example.com/v1/employees
-
-不要使用：
-
-/getZoos
-/createNewAnimals
-/deleteAllEmployees
 
 ### 5. HTTP动词
 
