@@ -43,15 +43,15 @@
 
 **前端仓库的贡献**
 
-![1](C:\Users\asus\Desktop\1.jpg)
+![1](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/Final%20Report/16340132-Dick20%20Final%20Report/images/1.jpg)
 
 **后端仓库的贡献**（修改部分api文档）
 
-![3](C:\Users\asus\Desktop\3.jpg)
+![3](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/Final%20Report/16340132-Dick20%20Final%20Report/images/3.jpg)
 
 **小组看板的贡献（以六月为例）**
 
-![2](C:\Users\asus\Desktop\2.jpg)
+![2](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/Final%20Report/16340132-Dick20%20Final%20Report/images/2.jpg)
 
 ## 个人博客清单
 
