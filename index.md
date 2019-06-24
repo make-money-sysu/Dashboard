@@ -31,16 +31,17 @@ layout: default
     - 7.5 [用例设计](07-05-usecase-design)
 * 8、生产规范与指南
     - 8.1 代码规范
+    	- [后端代码规范](08-01-coding-standard-back)
       - [前端代码规范](08-01-coding-standard-front)
-      - [后端代码规范](08-01-coding-standard-back)
     - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
 * X1 meet_recording
-    - [Inception meeting (2018/03/23)](X1-inception-meeting)
-    - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting)
-    - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting)
-    - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting)
+    - [Inception meeting](X1-inception-meeting)
+    - [Iteration 1 meeting ](X1-iteration1-meeting)
+    - [Iteration 2 meeting ](X1-iteration2-meeting)
+    - [Iteration 3 meeting ](X1-iteration3-meeting)
+    - [Iteration 4 meeting ](X1-iteration4-meeting)
 * X2 Tech/Work Report
 	- [16340132-十个步骤带你了解TAPD——TAPD教程](https://blog.csdn.net/dickdick111/article/details/92790836)
 	- [16340132-html+js 解决跨域访问带cookie的问题](https://blog.csdn.net/dickdick111/article/details/92788065)
@@ -54,3 +55,4 @@ layout: default
     - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
     - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
     - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
+
