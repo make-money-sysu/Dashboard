@@ -52,9 +52,11 @@ layout: default
 	- [16340154-beego 框架介绍]([https://make-money-sysu.github.io/essay/2019/04/02/beego%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D/](https://make-money-sysu.github.io/essay/2019/04/02/beego框架的介绍/))
 	- [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
 	- [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
+	- [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
+    - [16340129-Alva112358](https://blog.csdn.net/Alva112358/article/details/93628272)
     - [16340154-ninolau](https://www.jianshu.com/p/73b78e74dd03)
     - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
     - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
