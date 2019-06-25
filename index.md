@@ -25,7 +25,7 @@ layout: default
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
         - 7.2.3 XX子系统数据课设计
-        - 7.2.x [第三方数据评审结果](07-02-03-第三方数据评审结果)
+        - 7.2.4 [第三方数据评审结果](07-02-03-第三方数据评审结果)
     - 7.3 [API 设计](07-03-API)
     - 7.4 [软件架构文档](07-04-software-architecture-document)
     - 7.5 [用例设计](07-05-usecase-design)
@@ -36,6 +36,8 @@ layout: default
     - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
+* 9、成品展示
+    * 9.1 演示视频
 * X1 meet_recording
     - [Inception meeting](X1-inception-meeting)
     - [Iteration 1 meeting ](X1-iteration1-meeting)
@@ -52,7 +54,7 @@ layout: default
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
-    - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
+    - [16340154-nino](https://www.jianshu.com/p/73b78e74dd03)
     - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
     - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
 
