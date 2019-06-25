@@ -49,12 +49,14 @@ layout: default
 	- [16340132-html+js 解决跨域访问带cookie的问题](https://blog.csdn.net/dickdick111/article/details/92788065)
 	- [16340133-前端处理JSON数据](http://leungyukshing.cn/archives/Frontend-JSON.html)
 	- [16340133-axio之PUT预检请求](http://leungyukshing.cn/archives/OPTION-Request.html)
+	- [16340154-beego 框架介绍]([https://make-money-sysu.github.io/essay/2019/04/02/beego%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D/](https://make-money-sysu.github.io/essay/2019/04/02/beego框架的介绍/))
 	- [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
 	- [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
-    - [16340154-nino](https://www.jianshu.com/p/73b78e74dd03)
+    - [16340154-ninolau](https://www.jianshu.com/p/73b78e74dd03)
     - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
     - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
+* X4 [团队看板](https://github.com/orgs/make-money-sysu/projects)
 
