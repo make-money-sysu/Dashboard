@@ -30,9 +30,9 @@ layout: default
     - 7.4 [软件架构文档](07-04-software-architecture-document)
     - 7.5 [用例设计](07-05-usecase-design)
 * 8、生产规范与指南
-	- 8.1 代码规范 
-		- [后端代码规范](08-01-coding-standard-back)
-		- [前端代码规范](08-01-coding-standard-front)
+    - 8.1 代码规范 
+        - [后端代码规范](08-01-coding-standard-back)
+        - [前端代码规范](08-01-coding-standard-front)
     - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
