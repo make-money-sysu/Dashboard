@@ -1,13 +1,19 @@
 # Team Profile
 
-|                             Key                              |     Value     |                             Part                             |
-| :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
-| [![leungyukshing](https://avatars0.githubusercontent.com/u/29545063?s=100&v=4)](https://github.com/leungyukshing) | Leungyukshing | Front-end Team |
-| [![Nino](https://avatars0.githubusercontent.com/u/29083689?s=100&u=cdb9672d21820e265a063c275cfe74b312a53965&v=4)](https://github.com/LovelyBuggies) |     Nino      | Project Manager |
-| [![ltstriker](https://avatars0.githubusercontent.com/u/31623884?s=100&v=4)](https://github.com/ltstriker) |   ltstriker   | Back-end Team |
-| [![Alva](https://avatars1.githubusercontent.com/u/26009009?s=100&v=4)](https://github.com/Alva112358) |     Alva      | Front-end Team |
-| [![Dick](https://avatars1.githubusercontent.com/u/27689630?s=100&v=4)](https://github.com/dick20) |     Dick      | Front-end Team |
-| [![Lishch](https://avatars2.githubusercontent.com/u/48799157?s=100&v=4)](https://github.com/orgs/make-money-sysu/people/lishicheng1006) |     Lishch      | Product Manager |
-| [![52Hz](https://avatars2.githubusercontent.com/u/23028017?s=100&v=4)](https://github.com/52hz11) |     52Hz      | Back-end Team |
+挣闲钱项目开发团队有7位成员，分为三个部分：
 
++ 项目经理：Nino、Lishch
++ 前端团队：Leungyukshing、Alva、Dick
++ 后端团队：ltstriker、52Hz
 
+具体分工如下：
+
+|   学号   |                      Nicname                      |                Role                |
+| :------: | :-----------------------------------------------: | :--------------------------------: |
+| 16340154 |     [Nino](https://github.com/LovelyBuggies)      |     项目经理，统筹项目开发过程     |
+| 15331163 |    [Lishch](https://github.com/lishicheng1006)    |     产品经理，负责后期文档整理     |
+| 16340133 | [Leungyukshing](https://github.com/leungyukshing) |       前端，负责问卷功能实现       |
+| 16340129 |       [Alva](https://github.com/Alva112358)       |      前端，负责取快递功能实现      |
+| 16340132 |          Dick(https://github.com/dick20)          |       前端，负责用户功能实现       |
+| 16340131 |     [ltstriker](https://github.com/ltstriker)     | 后端，负责后端数据库实现、逻辑实现 |
+| 16340147 |         [52Hz](https://github.com/52hz11)         | 后端，负责后端数据库实现、逻辑实现 |
