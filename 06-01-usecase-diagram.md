@@ -1,5 +1,5 @@
 
 # Usecase Diagram
 
-![用例图](https://github.com/make-money-sysu/Dashboard/blob/master/文档内容/image/usecase.png)
+![用例图](https://i.loli.net/2019/06/27/5d139e07cbba681988.png)
 
