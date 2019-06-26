@@ -53,6 +53,7 @@ layout: default
 	- [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
 	- [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
 	- [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
+	- [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
