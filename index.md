@@ -37,6 +37,7 @@ layout: default
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
 * 9、成品展示
+  
     * 9.1 演示视频
 * X1 meet_recording
     - [Inception meeting](X1-inception-meeting)
@@ -45,15 +46,16 @@ layout: default
     - [Iteration 3 meeting ](X1-iteration3-meeting)
     - [Iteration 4 meeting ](X1-iteration4-meeting)
 * X2 Tech/Work Report
-	- [16340132-十个步骤带你了解TAPD——TAPD教程](https://blog.csdn.net/dickdick111/article/details/92790836)
-	- [16340132-html+js 解决跨域访问带cookie的问题](https://blog.csdn.net/dickdick111/article/details/92788065)
-	- [16340133-前端处理JSON数据](http://leungyukshing.cn/archives/Frontend-JSON.html)
-	- [16340133-axio之PUT预检请求](http://leungyukshing.cn/archives/OPTION-Request.html)
-	- [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
-	- [16340154-beego 框架介绍]([https://make-money-sysu.github.io/essay/2019/04/02/beego%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D/](https://make-money-sysu.github.io/essay/2019/04/02/beego框架的介绍/))
-	- [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
-	- [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
-	- [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
+    - [16340132-十个步骤带你了解TAPD——TAPD教程](https://blog.csdn.net/dickdick111/article/details/92790836)	
+    - [16340132-html+js 解决跨域访问带cookie的问题](https://blog.csdn.net/dickdick111/article/details/92788065)
+    - [16340133-前端处理JSON数据](http://leungyukshing.cn/archives/Frontend-JSON.html)
+    - [16340133-axio之PUT预检请求](http://leungyukshing.cn/archives/OPTION-Request.html)
+    - [16340133-vuejs+Golang解决CORS跨源问题](http://leungyukshing.cn/archives/CORS.html)
+    - [16340154-beego 框架介绍](https://make-money-sysu.github.io/essay/2019/04/02/beego%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D/)
+    - [16340154-Essential Skills for the Project Manager](https://www.jianshu.com/p/dd0288bf7e4f)
+    - [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
+    - [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
+    - [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
