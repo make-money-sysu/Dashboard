@@ -54,6 +54,8 @@ layout: default
     - [16340154-beego 框架介绍](https://make-money-sysu.github.io/essay/2019/04/02/beego%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D/)
     - [16340154-Essential Skills for the Project Manager](https://www.jianshu.com/p/dd0288bf7e4f)
     - [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
+    - [16340154-Why Choose Vue for Your Front-end?](https://lovelybuggies.github.io/2019/05/13/whychoosevue/)
+    - [16340154-Deploy Swagger on Your Mac!](https://lovelybuggies.github.io/2019/05/23/Swagger/)
     - [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
     - [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
     - [16340131-go和vue交互问题（跨域session，option请求）小结](https://ltstriker.github.io/2019/06/26/go%E5%92%8Cvue%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98%E5%B0%8F%E7%BB%93/)
@@ -66,3 +68,5 @@ layout: default
     - [16340131-ltstriker](https://ltstriker.github.io/2019/06/26/%E8%B5%9A%E9%97%B2%E9%92%B1-%E4%B8%AA%E4%BA%BA%E5%B0%8F%E7%BB%93/)
     - [15331163-lishicheng](https://github.com/lishicheng1006/System-analysis-and-design/blob/master/15331163-lishciheng1006.md)
 * X4 [团队看板](https://github.com/orgs/make-money-sysu/projects)
+* X5 [项目设计文档](X5-design-report.md)
+
