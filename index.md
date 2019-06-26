@@ -64,5 +64,5 @@ layout: default
     - [16340154-LovelyBuggies](https://www.jianshu.com/p/73b78e74dd03)
     - [16340147-52hz11](https://blog.csdn.net/xiaoshang3636/article/details/93761364)
     - [16340131-ltstriker](https://ltstriker.github.io/2019/06/26/%E8%B5%9A%E9%97%B2%E9%92%B1-%E4%B8%AA%E4%BA%BA%E5%B0%8F%E7%BB%93/)
+    - [15331163-lishicheng](https://github.com/lishicheng1006/System-analysis-and-design/blob/master/15331163-lishciheng1006.md)
 * X4 [团队看板](https://github.com/orgs/make-money-sysu/projects)
-
