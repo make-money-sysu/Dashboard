@@ -56,10 +56,13 @@ layout: default
     - [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
     - [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
     - [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
+    - [16340131-go和vue交互问题（跨域session，option请求）小结](https://ltstriker.github.io/2019/06/26/go%E5%92%8Cvue%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98%E5%B0%8F%E7%BB%93/)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
     - [16340129-Alva112358](https://blog.csdn.net/Alva112358/article/details/93628272)
     - [16340154-LovelyBuggies](https://www.jianshu.com/p/73b78e74dd03)
+    - [16340147-52hz11](https://blog.csdn.net/xiaoshang3636/article/details/93761364)
+    - [16340131-ltstriker](https://ltstriker.github.io/2019/06/26/%E8%B5%9A%E9%97%B2%E9%92%B1-%E4%B8%AA%E4%BA%BA%E5%B0%8F%E7%BB%93/)
 * X4 [团队看板](https://github.com/orgs/make-money-sysu/projects)
 
