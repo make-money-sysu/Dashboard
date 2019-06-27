@@ -57,76 +57,77 @@
 
 ## 3 数据库物理模型
 
-- **Customer**
+- **user**
 
   | Field         | Type        | Key  | Description          |
   | ------------- | ----------- | ---- | -------------------- |
-  | customer_id   | int         | PRI  | The ID of customer   |
-  | customer_name | varchar(20) |      | The name of customer |
+  | id   | int         | PRI  | The ID of user   |
+  | password  | varchar(40) |      | The password of user |
+  | real_name   | varchar(40) |      | The real_name of user |
+  | nick_name   | varchar(40) |      | The nick_name of user |
+  | age   | smallint unsigned |      | The age of user |
+  | gender   | char(1) |      | The gender of user |
+  | head_picture  | blob  |      | The head_picture of user |
+  | balance   | float  |      | The balance of user |
+  | profession   | varchar(40) |      | The profession of user |
+  | grade   | varchar(20) |      | The grade of user |
+  | phone   | varchar(20) |      | The phone of user |
+  | email   | varchar(40) |      | The email of user |
 
-- **Seller**
+- **survey**
 
   | Field       | Type        | Key  | Description            |
   | ----------- | ----------- | ---- | ---------------------- |
-  | seller_id   | int         | PRI  | The ID of seller       |
-  | seller_name | varchar(20) |      | The name of seller     |
-  | seller_pwd  | varchar(20) |      | The password of seller |
-
-- **Order**
-
-  | Field       | Type         | Key  | Description              |
-  | ----------- | ------------ | ---- | ------------------------ |
-  | order_id    | int          | PRI  | The ID of order          |
-  | total       | float        |      | The total price of order |
-  | order_info  | varchar(500) |      | The information of order |
-  | order_state | varchar(10)  |      | The state of order       |
-  | remark      | varchar(500) |      | The remark of order      |
+  | id   | int unsigned         | PRI  | The ID of seller       |
+  | publisher_id  | int unsigned |      | The publisher_id of seller     |
+  | title   | varchar(40) |      | The title of seller |
+  | content    | varchar(1000) |      | The content of seller |
+  | state    | int |      | The state of seller |
+  | checked    | int |      | The checked of seller |
+  | create_time    | datetime |   FKey   | The create_time of seller |
 
 
-- **Menu**
+- **do_survey**
 
   | Field      | Type         | Key  | Description               |
   | ---------- | ------------ | ---- | ------------------------- |
-  | food_id    | int          | PRI  | The ID of food            |
-  | food_name  | varchar(20)  |      | The name of food          |
-  | food_type  | varchar(20)  |      | The type of food          |
-  | food_price | float        |      | The price of food         |
-  | food_desc  | varchar(100) |      | The description of food   |
-  | food_img   | varchar(100) |      | The address of food image |
+  | survey_id     | int          |   PRI  | The survey_id of food     |
+  | recipient_id  | varchar(20)  |   PRI  | The recipient_id of food  |
+  | content       | varchar(20)  |        | The content of food       |
 
 
-- **Ordering**
+- **friends**
 
   | Field         | Type | Key  | Description          |
   | ------------- | ---- | ---- | -------------------- |
-  | customer_id   | int  | PRI  | The ID of customer   |
-  | order_id      | int  |      | The ID of order      |
-  | ordering_time | date |      | The time of ordering |
-  | table_id      | int  |      | The ID of table      |
+  | fid	   | int  |   | The fid of customer   |
+  | user1_id    int    | PRI  |      | The user1_id of order      |
+  | user2_id  | int  |  PRI    | The user2_id of ordering |
+  | accepted       | boolean   |      | The accepted of table      |
 
 
-- **Select**
+- **package**
 
   | Field       | Type | Key  | Description                 |
   | ----------- | ---- | ---- | --------------------------- |
-  | customer_id | int  | PRI  | The ID of customer          |
-  | food_id     | int  | PRI  | The ID of food              |
-  | food_num    | int  |      | The number of selected food |
+  | id  | int  | PRI  | The ID of customer          |
+  | owner_id      | int  | PRI  | The owner_id of food              |
+  | receiver_id     | int  |   FKey   | The receiver_id of selected food |
+   | create_time  | datetime  |  | The create_time of customer          |
+   | reward  | float   |   | The reward of customer          |
+   | state  | int  |  | The state of customer          |
+    | note  | varchar(200)  | | The note of customer          |
 
 
 
-- **Manager1**
-
-  | Field     | Type | Key  | Description      |
-  | --------- | ---- | ---- | ---------------- |
-  | seller_id | int  | PRI  | The ID of seller |
-  | food_id   | int  |      | The ID of food   |
-
-
-- **Manager2**
+- **msg**
 
   | Field     | Type | Key  | Description      |
   | --------- | ---- | ---- | ---------------- |
-  | seller_id | int  | PRI  | The ID of seller |
-  | order_id  | int  |      | The ID of order  |
+  | mid  | int  | PRI  | The mid of seller |
+  | fromid    | int  |      | The fromid of food   |
+  | toid    | int  |      | The toid of food   |
+  | create_time    | datetime  |      | The create_time of food   |
+  | state    | int  |      | The state of food   |
+  | content    | varchar(140)  |      | The content of food   |
 
