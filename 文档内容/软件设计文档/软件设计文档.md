@@ -35,9 +35,317 @@
 
 ## 项目目录
 
-# TODO项目目录
+### 后端目录
+
+```
+│  main.go
+│  
+├─conf
+│      app.conf
+│      
+├─controllers
+│      default.go
+│      DoSurveyController.go
+│      FriendsController.go
+│      LoginController.go
+│      MsgController.go
+│      PackageController.go
+│      SurveyController.go
+│      UserController.go
+│      
+├─models
+│      do_survey.go
+│      friends.go
+│      msg.go
+│      package.go
+│      survey.go
+│      user.go
+│      utils.go
+│      
+├─routers
+│      router.go
+│      
+├─static
+│  └─js
+│          reload.min.js
+│          
+├─swagger
+│      favicon-16x16.png
+│      favicon-32x32.png
+│      index.html
+│      oauth2-redirect.html
+│      swagger-ui-bundle.js
+│      swagger-ui-bundle.js.map
+│      swagger-ui-standalone-preset.js
+│      swagger-ui-standalone-preset.js.map
+│      swagger-ui.css
+│      swagger-ui.css.map
+│      swagger-ui.js
+│      swagger-ui.js.map
+│      swagger.json
+│      swagger.yml
+│      
+        
+
+```
+
+### 前端目录
+
+```
+│  README.md
+│  
+└─front-end
+    └─make-money
+        │  .babelrc
+        │  .editorconfig
+        │  .eslintignore
+        │  .eslintrc.js
+        │  .gitignore
+        │  .postcssrc.js
+        │  index.html
+        │  package-lock.json
+        │  package.json
+        │  README.md
+        │  
+        ├─build
+        │      build.js
+        │      check-versions.js
+        │      logo.png
+        │      utils.js
+        │      vue-loader.conf.js
+        │      webpack.base.conf.js
+        │      webpack.dev.conf.js
+        │      webpack.prod.conf.js
+        │      
+        ├─config
+        │      dev.env.js
+        │      index.js
+        │      prod.env.js
+        │      test.env.js
+        │      
+        ├─src
+        │  │  App.vue
+        │  │  main.js
+        │  │  
+        │  ├─assets
+        │  │  │  avatar.jpg
+        │  │  │  login.png
+        │  │  │  logo.png
+        │  │  │  mainpage.png
+        │  │  │  order.png
+        │  │  │  personInfo.png
+        │  │  │  Register.png
+        │  │  │  sysu.jpg
+        │  │  │  sysu.png
+        │  │  │  
+        │  │  └─bootstrap-3.3.7-dist
+        │  │      ├─bootstrap-3.3.7-dist
+        │  │      │  ├─css
+        │  │      │  │      bootstrap-theme.css
+        │  │      │  │      bootstrap-theme.css.map
+        │  │      │  │      bootstrap-theme.min.css
+        │  │      │  │      bootstrap-theme.min.css.map
+        │  │      │  │      bootstrap.css
+        │  │      │  │      bootstrap.css.map
+        │  │      │  │      bootstrap.min.css
+        │  │      │  │      bootstrap.min.css.map
+        │  │      │  │      
+        │  │      │  ├─fonts
+        │  │      │  │      glyphicons-halflings-regular.eot
+        │  │      │  │      glyphicons-halflings-regular.svg
+        │  │      │  │      glyphicons-halflings-regular.ttf
+        │  │      │  │      glyphicons-halflings-regular.woff
+        │  │      │  │      glyphicons-halflings-regular.woff2
+        │  │      │  │      
+        │  │      │  └─js
+        │  │      │          bootstrap.js
+        │  │      │          bootstrap.min.js
+        │  │      │          npm.js
+        │  │      │          
+        │  │      ├─css
+        │  │      │      bootstrap-theme.css
+        │  │      │      bootstrap-theme.css.map
+        │  │      │      bootstrap-theme.min.css
+        │  │      │      bootstrap-theme.min.css.map
+        │  │      │      bootstrap.css
+        │  │      │      bootstrap.css.map
+        │  │      │      bootstrap.min.css
+        │  │      │      bootstrap.min.css.map
+        │  │      │      
+        │  │      ├─fonts
+        │  │      │      glyphicons-halflings-regular.eot
+        │  │      │      glyphicons-halflings-regular.svg
+        │  │      │      glyphicons-halflings-regular.ttf
+        │  │      │      glyphicons-halflings-regular.woff
+        │  │      │      glyphicons-halflings-regular.woff2
+        │  │      │      
+        │  │      └─js
+        │  │              bootstrap.js
+        │  │              bootstrap.min.js
+        │  │              npm.js
+        │  │              
+        │  ├─components
+        │  │  │  calendar-input.vue
+        │  │  │  dialog.vue
+        │  │  │  ExpressDelivery.vue
+        │  │  │  expressTest.js
+        │  │  │  Global.vue
+        │  │  │  HelloWorld.vue
+        │  │  │  HomePage.vue
+        │  │  │  Login.vue
+        │  │  │  MainPage.vue
+        │  │  │  personalInfo.vue
+        │  │  │  QuestionnaireData.vue
+        │  │  │  QuestionnaireEdit.vue
+        │  │  │  QuestionnaireFill.vue
+        │  │  │  QuestionnaireList.vue
+        │  │  │  Register.vue
+        │  │  │  
+        │  │  └─public
+        │  │          header.vue
+        │  │          
+        │  ├─router
+        │  │      index.js
+        │  │      
+        │  └─style
+        │          app.scss
+        │          calendar.scss
+        │          dialog.css
+        │          ExpressDelivery.css
+        │          header.scss
+        │          login.css
+        │          QuestionnaireData.scss
+        │          QuestionnaireEdit.scss
+        │          QuestionnaireFill.scss
+        │          QuestionnaireList.scss
+        │          
+        ├─static
+        │  │  .gitkeep
+        │  │  favicon.ico
+        │  │  logo.png
+        │  │  
+        │  ├─bootstrap-3.3.7-dist
+        │  │  ├─bootstrap-3.3.7-dist
+        │  │  │  ├─css
+        │  │  │  │      bootstrap-theme.css
+        │  │  │  │      bootstrap-theme.css.map
+        │  │  │  │      bootstrap-theme.min.css
+        │  │  │  │      bootstrap-theme.min.css.map
+        │  │  │  │      bootstrap.css
+        │  │  │  │      bootstrap.css.map
+        │  │  │  │      bootstrap.min.css
+        │  │  │  │      bootstrap.min.css.map
+        │  │  │  │      
+        │  │  │  ├─fonts
+        │  │  │  │      glyphicons-halflings-regular.eot
+        │  │  │  │      glyphicons-halflings-regular.svg
+        │  │  │  │      glyphicons-halflings-regular.ttf
+        │  │  │  │      glyphicons-halflings-regular.woff
+        │  │  │  │      glyphicons-halflings-regular.woff2
+        │  │  │  │      
+        │  │  │  └─js
+        │  │  │          bootstrap.js
+        │  │  │          bootstrap.min.js
+        │  │  │          npm.js
+        │  │  │          
+        │  │  ├─css
+        │  │  │      bootstrap-theme.css
+        │  │  │      bootstrap-theme.css.map
+        │  │  │      bootstrap-theme.min.css
+        │  │  │      bootstrap-theme.min.css.map
+        │  │  │      bootstrap.css
+        │  │  │      bootstrap.css.map
+        │  │  │      bootstrap.min.css
+        │  │  │      bootstrap.min.css.map
+        │  │  │      
+        │  │  ├─fonts
+        │  │  │      glyphicons-halflings-regular.eot
+        │  │  │      glyphicons-halflings-regular.svg
+        │  │  │      glyphicons-halflings-regular.ttf
+        │  │  │      glyphicons-halflings-regular.woff
+        │  │  │      glyphicons-halflings-regular.woff2
+        │  │  │      
+        │  │  └─js
+        │  │          bootstrap.js
+        │  │          bootstrap.min.js
+        │  │          npm.js
+        │  │          
+        │  ├─css
+        │  │      02.css
+        │  │      1.css
+        │  │      senderreceiver.css
+        │  │      staff&admin.css
+        │  │      user.css
+        │  │      
+        │  ├─html
+        │  │      admin_goods.html
+        │  │      admin_staff.html
+        │  │      admin_vip.html
+        │  │      debug.log
+        │  │      homepage.html
+        │  │      login.html
+        │  │      main.html
+        │  │      receiver.html
+        │  │      register.html
+        │  │      sender.html
+        │  │      user_center.html
+        │  │      
+        │  ├─image
+        │  │      0198380141424148503.jpg
+        │  │      1.png
+        │  │      2.png
+        │  │      2089312254@chatroom_1486356859619_63.jpg
+        │  │      276db8df3822.jpg
+        │  │      55ffc7529f1920c62ce345cad7e2c6bd.jpg
+        │  │      act1.jpg
+        │  │      act2.png
+        │  │      act3.jpg
+        │  │      b1.png
+        │  │      bg.jpg
+        │  │      find.png
+        │  │      lago.jpg
+        │  │      logo.png
+        │  │      logo1.jpg
+        │  │      mail_receive.png
+        │  │      mail_send.png
+        │  │      TB2V73UfRmWBuNkSndVXXcsApXa_!!725677994.jpg_430x430q90.jpg
+        │  │      test1.jpg
+        │  │      test2.jpg
+        │  │      test3.jpg
+        │  │      u=2720665496,345531871&fm=27&gp=0.jpg
+        │  │      
+        │  └─js
+        │          1.js
+        │          2.js
+        │          3.js
+        │          jquery-3.2.1.min.js
+        │          
+        └─test
+            ├─e2e
+            │  │  nightwatch.conf.js
+            │  │  runner.js
+            │  │  
+            │  ├─custom-assertions
+            │  │      elementCount.js
+            │  │      
+            │  └─specs
+            │          test.js
+            │          
+            └─unit
+                │  .eslintrc
+                │  jest.conf.js
+                │  setup.js
+                │  
+                └─specs
+                        HelloWorld.spec.js
+                        
+
+```
+
+
 
 ## 架构设计
+
 本系统采用了MVC（Model-View-Controller）设计，模式，实现一个典型的三层架构模型。三层架构模型包括：模型层、视图层、控制器层。
 - 视图层(View)
 
@@ -52,13 +360,6 @@
 下面给出系统的总体架构图，总体架构如上述，为典型的三层架构。
 
 ![](https://i.loli.net/2019/06/26/5d1380172d5f331554.png)
-
-
-### 系统类图
-
-在关键抽象的基础上，添加了个实体类的属性，形成图所示的系统类图。
-
-# TODO这里还差类图
 
 
 
@@ -132,7 +433,7 @@
 
 以下给出由关键抽象的实体及其关联关系形成的 ER 图：
 
-# TODO：这里还差ER图
+![](https://i.loli.net/2019/06/27/5d147c324d3d219954.png)
 
 ## 路由设计
 
