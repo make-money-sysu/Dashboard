@@ -56,7 +56,7 @@ layout: default
     - [16340154-5 Mins build Vue.js on your Mac!](https://www.jianshu.com/p/3a6e14d19845)
     - [16340154-Why Choose Vue for Your Front-end?](https://lovelybuggies.github.io/2019/05/13/whychoosevue/)
     - [16340154-Deploy Swagger on Your Mac!](https://lovelybuggies.github.io/2019/05/23/Swagger/)
-    - [16340154-导出项目目录的工具]([https://lovelybuggies.github.io/2019/06/20/tree%E5%AF%BC%E5%87%BA%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/](https://lovelybuggies.github.io/2019/06/20/tree导出项目目录/))
+    - [16340154-导出项目目录的工具](https://lovelybuggies.github.io/2019/06/20/tree%E5%AF%BC%E5%87%BA%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/)
     - [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
     - [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
     - [16340131-go和vue交互问题（跨域session，option请求）小结](https://ltstriker.github.io/2019/06/26/go%E5%92%8Cvue%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98%E5%B0%8F%E7%BB%93/)
