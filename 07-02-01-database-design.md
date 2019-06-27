@@ -3,7 +3,7 @@
 
 ## 1 ER模型
 
-![ER模型](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ER_model.png?raw=true)
+![ER模型](![](https://i.loli.net/2019/06/27/5d147c324d3d219954.png))
 
 
 
