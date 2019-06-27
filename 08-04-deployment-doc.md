@@ -20,6 +20,10 @@ npm run e2e
 # run all tests
 npm test
 ```
+前端build出vue项目传输到后台服务器进行部署，文件目录包括
++ static
++ index.html
+
 
 ## 后端部署
 首先先确定golang已经成功安装，不同的系统对应不同的安装方法，具体安装教程见[go安装教程](<https://golang.org/doc/install>)
