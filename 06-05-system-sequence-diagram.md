@@ -18,7 +18,7 @@
 
 用户进入登录界面登录
 
-![用户登陆](./domain-model/Seq1.jpg)
+![用户登陆](./domain-model/Seq2.jpg)
 
 
 ### 2. 发布问卷
@@ -26,7 +26,7 @@
 
 用户进入发布问卷界面
 
-![发布问卷](./domain-model/Seq2.jpg)
+![发布问卷](./domain-model/Seq3.jpg)
 
 
 
