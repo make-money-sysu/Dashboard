@@ -55,3 +55,6 @@ bee run -gendoc=true -downdoc=true
 ```
 
 这样后端程序就已经运行起来了
+
+## 整合
+把前端生成的静态文件放到服务器的sever/static目录下，完成前端部署。
