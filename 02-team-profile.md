@@ -14,6 +14,6 @@
 | 15331163 |    [Lishch](https://github.com/lishicheng1006)    |     产品经理，负责后期文档整理     |
 | 16340133 | [Leungyukshing](https://github.com/leungyukshing) |       前端，负责问卷功能实现       |
 | 16340129 |       [Alva](https://github.com/Alva112358)       |      前端，负责取快递功能实现      |
-| 16340132 |          Dick(https://github.com/dick20)          |       前端，负责用户功能实现       |
+| 16340132 |         [Dick](https://github.com/dick20)         |       前端，负责用户功能实现       |
 | 16340131 |     [ltstriker](https://github.com/ltstriker)     | 后端，负责后端数据库实现、逻辑实现 |
 | 16340147 |         [52Hz](https://github.com/52hz11)         | 后端，负责后端数据库实现、逻辑实现 |
