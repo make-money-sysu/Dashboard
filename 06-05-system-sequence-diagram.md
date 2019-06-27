@@ -7,8 +7,8 @@
 ## 基本功能
 
 1. 用户登录
-2. 发布任务
-3. 接受任务
+2. 发布问卷
+3. 收发快递
 
 
 ## 系统顺序图
@@ -18,25 +18,24 @@
 
 用户进入登录界面登录
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_menu.png)
+![用户登陆](./domain-model/Seq2.jpg)
 
 
-### 2. 发布任务
+### 2. 发布问卷
 
 
-用户可以发布快递和问卷调查任务
+用户进入发布问卷界面
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_today.png)
+![发布问卷](./domain-model/Seq3.jpg)
 
 
 
-### 3. 接受任务
+### 3. 收发快递
 
-by 15331229
 
-用户可以接受快递和问卷调查任务
+用户收发快递
 
-![dish_detail](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_dish_detail.png?raw=true)
+![收发快递](./domain-model/Seq3.jpg)
 
 
 
