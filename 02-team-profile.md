@@ -11,7 +11,7 @@
 |   学号   |                      Nicname                      |                Role                |
 | :------: | :-----------------------------------------------: | :--------------------------------: |
 | 16340154 |     [Nino](https://github.com/LovelyBuggies)      |     项目经理，统筹项目开发过程     |
-| 15331163 |    [Lishch](https://github.com/lishicheng1006)    |     产品经理，负责后期文档整理     |
+| 15331163 |    [Lishch](https://github.com/lishicheng1006)    |     产品经理，系统需求分析完善需求文档     |
 | 16340133 | [Leungyukshing](https://github.com/leungyukshing) |       前端，负责问卷功能实现       |
 | 16340129 |       [Alva](https://github.com/Alva112358)       |      前端，负责取快递功能实现      |
 | 16340132 |         [Dick](https://github.com/dick20)         |       前端，负责用户功能实现       |
