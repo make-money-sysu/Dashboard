@@ -108,7 +108,7 @@
 ### 3.3 调研过程
 
 ### 问卷调查法：
-   ![问卷调查](https://github.com/make-money-sysu/Dashboard/blob/master/文档内容/image/问卷调查.jpg)
+   ![问卷调查]([https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9/image/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5.jpg](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/文档内容/image/问卷调查.jpg))
 
 #### 访谈对象1--中山大学大学生：
 
