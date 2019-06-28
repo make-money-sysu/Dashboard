@@ -113,6 +113,16 @@
 ### 问卷调查法：
    ![问卷调查](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9/image/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5.jpg)
 
+#### 问卷结果
+
+![问卷功能](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9/image/%E9%97%AE%E5%8D%B7%E6%95%B0%E6%8D%AE-%E9%97%AE%E5%8D%B7%E5%8A%9F%E8%83%BD.png)
+
+![快递功能1](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/文档内容/image/问卷数据-快递功能1.png)
+
+![快递功能2](https://raw.githubusercontent.com/make-money-sysu/Dashboard/master/文档内容/image/问卷数据-快递功能2.png)
+
+&emsp;&emsp;从问卷反馈的数据可以看出，大学生中对于问卷和取快递这两个功能的需求还是很大的，这也说明了我们这个系统的必要性。
+
 #### 访谈对象1--中山大学大学生：
 
 Q：请问您对于众包这个概念有了解吗？如果有了解的话对市场上常见的众包有所了解吗？比如说阿里众包、美团众包等。
