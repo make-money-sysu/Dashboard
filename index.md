@@ -60,6 +60,8 @@ layout: default
     - [16340129-vue-easytable使用](https://blog.csdn.net/Alva112358/article/details/93632524)
     - [16340129-vue弹框实现](https://blog.csdn.net/Alva112358/article/details/93732001)
     - [16340131-go和vue交互问题（跨域session，option请求）小结](https://ltstriker.github.io/2019/06/26/go%E5%92%8Cvue%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98%E5%B0%8F%E7%BB%93/)
+
+    - [16340131-自动化部署后端](https://ltstriker.github.io/2019/06/27/%E4%BD%BF%E7%94%A8travis-CI%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/)
 * X3 Final Report
     - [16340133-leungyukshing](http://leungyukshing.cn/archives/SWSAD-FinalReport.html)
     - [16340132-dick20](https://blog.csdn.net/dickdick111/article/details/92788491)
