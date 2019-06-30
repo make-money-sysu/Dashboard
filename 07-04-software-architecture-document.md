@@ -35,8 +35,8 @@
 
 ## 逻辑视图
 
-![逻辑视图](D:\github\Dashboard\文档内容\软件设计文档\image\逻辑视图.png)
+![逻辑视图](/文档内容/软件设计文档/image/逻辑视图.png)
 
 ## 物理视图
 
-![物理视图](D:\github\Dashboard\文档内容\软件设计文档\image\物理视图.png)
+![物理视图](/文档内容/软件设计文档/image/物理视图.png)
