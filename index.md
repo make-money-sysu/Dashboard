@@ -38,7 +38,7 @@ layout: default
     - 8.4 [部署文档](08-04-deployment-doc)
 * 9、成品展示
   
-    * 9.1 [演示视频](makemoney_demo.mp4)
+    * 9.1 [演示视频](makemoney_demo.mp4)（如果浏览器加载过慢，可移步到：https://www.bilibili.com/video/av57404039/）
 * X1 meet_recording
     - [Inception meeting](X1-inception-meeting)
     - [Iteration 1 meeting ](X1-iteration1-meeting)
